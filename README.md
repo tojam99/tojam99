@@ -18,15 +18,15 @@ A dual online/local freelance marketplace with escrow, milestone payments, dispu
 
 `Next.js` `Node.js` `Express` `MySQL` `Stripe Connect` `PayPal` `PM2`
 
+### Jiveocity — Location-based social discovery
+Check into venues, see who's there, and connect with people around you in real time. Venue-based group chats, DMs from proximity, and live check-in counts powered by Google Places.
+
+`React Native` `Expo` `TypeScript` `Supabase` `Google Places` `Google Maps`
+
 ### Matchsta *(2019)* — Dating app with third-party matchmaking
 Let friends and family match you with potential partners. iOS launch, featured Super Match and premium subscriptions.
 
 `Swift` `iOS SDK` `Firebase` `StoreKit`
-
-### Jiveocity *(2021)* — Location-based social discovery
-Find and connect with people at nearby venues.
-
-`React Native` `Firebase`
 
 ### Station IT Professional — Field service management
 IT project tracking, offset details, and overview reporting for field technicians.
@@ -42,7 +42,7 @@ IT project tracking, offset details, and overview reporting for field technician
 **Backend:** Node.js, Express, PostgreSQL, MySQL, Supabase Edge Functions
 **Infra:** Vercel, VPS + Nginx + PM2, Cloudflare, Supabase
 **Payments:** Stripe, Stripe Connect, PayPal, RevenueCat
-**Other:** Google Places, FCM push, Postmark, Webuzo
+**Other:** Google Places, Google Maps, FCM push, Postmark, Webuzo
 
 ---
 
