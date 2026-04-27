@@ -50,7 +50,7 @@ IT project tracking, offset details, and overview reporting for field technician
 
 - 🌐 Portfolio → [craftedsourcecode.com](https://craftedsourcecode.com)
 - 💼 LinkedIn → [thomas-hynes](https://www.linkedin.com/in/thomas-hynes-a9ab6939a/)
-- ✉️ Email → thines@megalancer.com
+- ✉️ Email → thomas@craftedsourcecode.com
 
 ---
 
