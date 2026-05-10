@@ -8,8 +8,8 @@ Full-stack developer and solo founder based in Nashville, TN. I build and ship r
 
 ## 🚀 Shipped Products
 
-### [Chivalry](https://play.google.com/store/apps/details?id=date.chivalry.app) — A dating app built around real, in-person dates
-Putting dates back into dating. Mobile + web, available on Android (iOS in review) and at [**chivalry.date**](https://chivalry.date).
+### [Chivalry](https://chivalry.date) — A dating app built around real, in-person dates
+Putting dates back into dating. Mobile + web, available on [**Android**](https://play.google.com/store/apps/details?id=date.chivalry.app) (iOS in review) and at [**chivalry.date**](https://chivalry.date).
 
 `React Native` `Expo` `Next.js 14` `TypeScript` `Supabase` `Stripe` `RevenueCat` `Tailwind`
 
