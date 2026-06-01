@@ -8,20 +8,20 @@ Full-stack developer and solo founder based in Nashville, TN. I build and ship r
 
 ## 🚀 Shipped Products
 
-### [Chivalry](https://chivalry.date) — A dating app built around real, in-person dates
-Putting dates back into dating. Mobile + web, available on [**Android**](https://play.google.com/store/apps/details?id=date.chivalry.app) (iOS in review) and at [**chivalry.date**](https://chivalry.date).
+### [Chivalry](https://play.google.com/store/apps/details?id=date.chivalry.app) — A dating app built around real, in-person dates
+Putting dates back into dating. Mobile + web, available on Android (iOS in review) and at [**chivalry.date**](https://chivalry.date).
 
 `React Native` `Expo` `Next.js 14` `TypeScript` `Supabase` `Stripe` `RevenueCat` `Tailwind`
-
-### [Jiveocity](https://jiveocity.com) — Location-based social discovery
-Check into venues, see who's there, and connect with people around you in real time. Venue-based group chats, DMs from proximity, and live check-in counts powered by Google Places. Available on the [**App Store**](https://apps.apple.com/us/app/jiveocity/id738433831) and [**Google Play**](https://play.google.com/store/apps/details?id=com.jiveocitynew.android).
-
-`React Native` `Expo` `TypeScript` `Supabase` `Google Places` `Google Maps` `Geolocation`
 
 ### [Megalancer](https://megalancer.com) — Freelance marketplace platform
 A dual online/local freelance marketplace with escrow, milestone payments, dispute resolution, and a partner/referral program.
 
 `Next.js` `Node.js` `Express` `MySQL` `Stripe Connect` `PayPal` `PM2`
+
+### Jiveocity — Location-based social discovery
+Check into venues, see who's there, and connect with people around you in real time. Venue-based group chats, DMs from proximity, and live check-in counts powered by Google Places.
+
+`React Native` `Expo` `TypeScript` `Supabase` `Google Places` `Google Maps`
 
 ### Matchsta *(2019)* — Dating app with third-party matchmaking
 Let friends and family match you with potential partners. iOS launch, featured Super Match and premium subscriptions.
