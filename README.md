@@ -14,8 +14,8 @@ I build **AI-native**: I orchestrate AI across the whole stack and act as the pr
 Online + local freelance marketplace with Stripe/PayPal dual-rail payments, escrow, milestones, disputes, NDAs, and **AI Smart Matching** (Voyage embeddings + cosine similarity).
 `Next.js 15` `React` `Node.js` `Express` `MySQL` `Stripe Connect` `PayPal` `Voyage AI` `PM2`
 
-### Synthri — AI wellness insights *(in build)*
-Turns your bloodwork into plain-English wellness insights. Snap a lab report, understand each biomarker, see how lifestyle shapes long-term trajectory.
+### [Synthri](https://apps.apple.com/us/app/synthri/id6772319335) — AI wellness insights
+Turns your bloodwork into plain-English wellness insights. Snap a lab report, understand each biomarker, see how lifestyle shapes long-term trajectory. **Live on the [App Store](https://apps.apple.com/us/app/synthri/id6772319335)** (Android coming soon) — concept to launch in ~4 weeks.
 `Expo SDK 54` `Supabase Edge Functions` `Claude API` `TypeScript`
 
 ### SidedWith — Settle arguments with the crowd *(in build)*
@@ -46,7 +46,7 @@ Native iOS field-surveying tool — capture, map, and manage station data with o
 
 ## 🛠️ Tech I work with
 
-**AI:** Claude API, Voyage AI embeddings, AI-assisted development (orchestration across the full stack)
+**AI:** Claude & OpenAI APIs (GPT), Voyage AI embeddings, LLM integration, AI-assisted development (Cursor, Copilot)
 **Mobile:** React Native, Expo, Swift, native iOS & Android
 **Web:** Next.js, React, TypeScript, Tailwind CSS
 **Backend:** Node.js, Express, MySQL, PostgreSQL, Supabase Edge Functions
