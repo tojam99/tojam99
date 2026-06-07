@@ -14,9 +14,9 @@ I build **AI-native**: I orchestrate AI across the whole stack and act as the pr
 Online + local freelance marketplace with Stripe/PayPal dual-rail payments, escrow, milestones, disputes, NDAs, and **AI Smart Matching** (Voyage embeddings + cosine similarity).
 `Next.js 15` `React` `Node.js` `Express` `MySQL` `Stripe Connect` `PayPal` `Voyage AI` `PM2`
 
-### [Synthri](https://apps.apple.com/us/app/synthri/id6772319335) — AI wellness insights
-Turns your bloodwork into plain-English wellness insights. Snap a lab report, understand each biomarker, see how lifestyle shapes long-term trajectory. **Live on the [App Store](https://apps.apple.com/us/app/synthri/id6772319335)** (Android coming soon) — concept to launch in ~4 weeks.
-`Expo SDK 54` `Supabase Edge Functions` `Claude API` `TypeScript`
+### [Synthri](https://synthri.com) — AI wellness insights
+Turns your bloodwork into plain-English wellness insights. Snap a lab report, understand each biomarker, see how lifestyle shapes long-term trajectory. On the [**App Store**](https://apps.apple.com/us/app/synthri/id6772319335) and [**Google Play**](https://play.google.com/store/apps/details?id=com.synthri.app) — concept to both stores in ~4 weeks. Marketing site at [**synthri.com**](https://synthri.com).
+`Expo SDK 54` `Supabase Edge Functions` `Claude API` `Claude Vision OCR` `TypeScript` `Next.js`
 
 ### SidedWith — Settle arguments with the crowd *(in build)*
 AITA-style social app: post a situation, the community picks a side over 24 hours, with a **Claude AI tie-breaker** when the vote splits 50/50.
