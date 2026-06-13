@@ -18,9 +18,9 @@ Online + local freelance marketplace with Stripe/PayPal dual-rail payments, escr
 Turns your bloodwork into plain-English wellness insights. Snap a lab report, understand each biomarker, see how lifestyle shapes long-term trajectory. On the [**App Store**](https://apps.apple.com/us/app/synthri/id6772319335) and [**Google Play**](https://play.google.com/store/apps/details?id=com.synthri.app) — concept to both stores in ~4 weeks. Marketing site at [**synthri.com**](https://synthri.com).
 `Expo SDK 54` `Supabase Edge Functions` `Claude API` `Claude Vision OCR` `TypeScript` `Next.js`
 
-### SidedWith — Settle arguments with the crowd *(in build)*
-AITA-style social app: post a situation, the community picks a side over 24 hours, with a **Claude AI tie-breaker** when the vote splits 50/50.
-`Expo` `Supabase` `Claude API` `Zustand` `TypeScript`
+### [SidedWith](https://sidedwith.com) — Settle arguments with the crowd
+AITA-style social app: post a situation, the community picks a side over 24 hours, with a **Claude AI tie-breaker** on close votes. Now on the [**App Store**](https://apps.apple.com/us/app/sidedwith/id6775013753) and [**Google Play**](https://play.google.com/store/apps/details?id=com.virtugenic.sidedwith).
+`Expo` `Supabase` `Claude API` `OpenAI Moderation` `Zustand` `TypeScript`
 
 ### [Jiveocity](https://jiveocity.com) — Location-based social discovery
 Check into venues, see who's there, and connect in real time. Venue group chats, proximity DMs, and live check-in counts. On the [**App Store**](https://apps.apple.com/us/app/jiveocity/id738433831) and [**Google Play**](https://play.google.com/store/apps/details?id=com.jiveocitynew.android).
