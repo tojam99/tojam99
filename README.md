@@ -30,9 +30,13 @@ Check into venues, see who's there, and connect in real time. Venue group chats,
 Putting dates back into dating — real, in-person plans, not endless messaging. On [**Google Play**](https://play.google.com/store/apps/details?id=date.chivalry.app) (iOS in App Review) and at [**chivalry.date**](https://chivalry.date). Firebase Phone Auth across web + mobile.
 `React Native` `Expo` `Next.js` `TypeScript` `Supabase` `Firebase` `RevenueCat`
 
-### [AILotteryPredictor](https://ailotterypredictor.com) — ML prediction web app
-Python/Flask app serving pre-trained ML models, with a full SEO buildout (24 ML explainer pages, structured data). Live and ranking.
-`Python` `Flask` `scikit-learn` `MySQL`
+### [AIGaming Predictions](https://aigamingpredictions.com) — Quantitative sports forecasting
+Probabilistic models publish a forecast on **every** match across **14 sports** — free, and auto-graded in the open once the result lands, so the track record builds itself. A **de-vig EV engine** strips bookmaker margin from 25+ books to recover the sharp fair price, then surfaces exactly where the market is mispriced and by how much. Stripe subscriptions, a cron-driven daily email pipeline, and a multi-sport results-grading service behind it.
+`Python` `Flask` `Gunicorn` `MySQL` `Stripe` `Postmark` `Cloudflare` `Odds API`
+
+### [AILotteryPredictor](https://ailotterypredictor.com) — Statistical modeling, made legible
+Runs statistical models over the complete historical draw record across **three lottery games** (Powerball, Mega Millions, Millionaire for Life) — Counter-based weighted sampling, frequency distribution analysis, and hot/cold classification per game matrix. Paired with a **24-page ML explainer library** so the methodology is public rather than a black box. Tokenized email verification, hardened secrets, and a full technical SEO buildout (structured data, BreadcrumbList schema, sitemap).
+`Python` `Flask` `Gunicorn` `MySQL` `Postmark` `Cloudflare` `Jinja`
 
 ### Matchsta — Dating with third-party matchmaking
 Native iOS dating app where friends can match you with others. Super Match feature and premium subscriptions.
@@ -49,8 +53,8 @@ Native iOS field-surveying tool — capture, map, and manage station data with o
 **AI:** Claude & OpenAI APIs (GPT), Voyage AI embeddings, LLM integration, AI-assisted development (Cursor, Copilot)
 **Mobile:** React Native, Expo, Swift, native iOS & Android
 **Web:** Next.js, React, TypeScript, Tailwind CSS
-**Backend:** Node.js, Express, MySQL, PostgreSQL, Supabase Edge Functions
-**Infra:** VPS + Nginx + PM2, Cloudflare, Vercel, Webuzo
+**Backend:** Node.js, Express, Python/Flask, MySQL, PostgreSQL, Supabase Edge Functions
+**Infra:** VPS + Nginx + PM2 + Gunicorn, Cloudflare, Vercel, Webuzo
 **Payments:** Stripe, Stripe Connect, PayPal, RevenueCat
 
 ---
