@@ -10,6 +10,10 @@ I build **AI-native**: I orchestrate AI across the whole stack and act as the pr
 
 ## 🚀 Shipped & In Flight
 
+### [cardiBlue](https://cardiblue.com) — Hands-free ACLS code timer
+Voice-driven code blue timer for nurses and code teams. Say **"start code"** and it listens — logging rhythms, shocks, and medications by voice while spoken CPR-cycle and epinephrine timers run, hands-free on the crash cart. AI-written charting narrative and one-tap PDF export. No accounts, no PHI stored. Submitted to the **App Store**, awaiting review. Marketing site at [**cardiblue.com**](https://cardiblue.com).
+`Expo SDK 54` `React Native` `Supabase Edge Functions` `Claude API` `RevenueCat` `TypeScript`
+
 ### [Megalancer](https://megalancer.com) — Dual freelance marketplace
 Online + local freelance marketplace with Stripe/PayPal dual-rail payments, escrow, milestones, disputes, NDAs, and **AI Smart Matching** (Voyage embeddings + cosine similarity).
 `Next.js 15` `React` `Node.js` `Express` `MySQL` `Stripe Connect` `PayPal` `Voyage AI` `PM2`
