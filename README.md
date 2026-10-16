@@ -10,6 +10,10 @@ I build **AI-native**: I orchestrate AI across the whole stack and act as the pr
 
 ## 🚀 Shipped & In Flight
 
+### [FraudAngel](https://fraudangel.com) — AI scam protection for you and your family
+Paste a text, share a screenshot, scan a letter, or just describe a call out loud, and get a **plain-English verdict** in seconds: Scam, Suspicious, or Looks real, with the reasons spelled out. Blocks known scam calls on iPhone and Android, filters scam texts on-device, and stops dangerous links through encrypted DNS. **Family Guard** alerts you when a parent gets a scam, without ever showing you their messages. Submitted to the **App Store** and **Google Play**, awaiting review. Site at [**fraudangel.com**](https://fraudangel.com).
+`Expo SDK 57` `React Native` `Swift` `Kotlin` `Node.js` `Express` `MySQL` `Claude API` `Whisper` `Tesseract OCR` `Firebase` `Next.js 15`
+
 ### [ProTourBooking](https://protourbooking.com) — Crew booking for touring productions
 Mobile-first platform connecting production managers with touring crew. Post gigs, browse verified crew profiles, manage teams, and handle bookings — built for the live entertainment industry. Submitted to the **App Store**, awaiting review. Web app at [**protourbooking.com**](https://protourbooking.com).
 `React Native` `Expo` `Next.js` `Node.js` `Express` `MySQL` `TypeScript`
