@@ -1,6 +1,6 @@
 # Hey, I'm Thomas 👋
 
-**Full-stack developer and solo founder based in Nashville, TN.** I take ideas from concept to the App Store end-to-end — product, design, code, deploy, and support — as a one-person studio.
+**Full-stack developer and solo founder based in Los Angeles, CA.** I take ideas from concept to the App Store end-to-end — product, design, code, deploy, and support — as a one-person studio.
 
 I build **AI-native**: I orchestrate AI across the whole stack and act as the problem-domain expert that turns fuzzy goals into shipped product. 15+ years of IT and development experience, 43 countries traveled. I don't prototype — I launch.
 
