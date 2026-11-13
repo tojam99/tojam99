@@ -10,6 +10,10 @@ I build **AI-native**: I orchestrate AI across the whole stack and act as the pr
 
 ## 🚀 Shipped & In Flight
 
+### [RobiTasks](https://robitasks.com): Scan your home. List your chores. Get a robot.
+Home robots are coming, but they show up knowing nothing about your home. RobiTasks gets it ready first. Scan each room with the iPhone's **LiDAR** or a few photos, and **Claude vision** finds the objects. Then describe a chore the way you'd tell a person, like "Every Tuesday morning, fold the towels and put them in the hall closet." **Claude** turns it into a step-by-step robot task plan tied to your real rooms and objects. Plans respect your no-go rules, say whether they're robot-ready, and flag open questions instead of guessing. Live on the [**App Store**](https://apps.apple.com/us/app/robitasks/id6826956489)) and the web at [**robitasks.com**](https://robitasks.com). Next up: sending plans to supported robots, plus Android.
+`Swift` `SwiftUI` `RoomPlan` `LiDAR` `USDZ` `Claude API` `Claude Vision` `Node.js` `Express` `MySQL` `Sign in with Apple` `Google OAuth` `Postmark` `Cloudflare`
+
 ### [FraudAngel](https://fraudangel.com): AI scam protection for you and your family
 Paste a text, share a screenshot, scan a letter, or just describe a call out loud, and get a **plain-English verdict** in seconds: Scam, Suspicious, or Looks real, with the reasons spelled out. Blocks known scam calls on iPhone and Android, filters scam texts on-device, and stops dangerous links through encrypted DNS. **Family Guard** alerts you when a parent gets a scam, without ever showing you their messages. Live on the [**App Store**](https://apps.apple.com/app/fraudangel/id6822547672) and [**Google Play**](https://play.google.com/store/apps/details?id=com.fraudangel.app). Site at [**fraudangel.com**](https://fraudangel.com).
 `Expo SDK 57` `React Native` `Swift` `Kotlin` `Node.js` `Express` `MySQL` `Claude API` `Whisper` `Tesseract OCR` `Firebase` `Next.js 15`
